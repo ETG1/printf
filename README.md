@@ -1,3 +1,2 @@
-                                                                0.I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
- a Spur for life                                                
-function produces output according to a format.
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 .git.swp
